@@ -1,2 +1,2 @@
 # Projects
-All python projects are available below!
+All projects are available below!
